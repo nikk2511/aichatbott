@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+backend/venv/
+
+# Chroma/DB data
+backend/data/chroma/
+backend/data/*.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+.npmrc
+npm-debug.log*
+yarn.lock
+pnpm-lock.yaml
+
+# Next.js
+.next/
+.vercel/
+out/
+frontend/.next/
+frontend/.vercel/
+frontend/out/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files
+*.env*
+frontend/.env.local
+backend/.env

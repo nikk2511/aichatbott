@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+langchain==0.1.13
+chromadb==0.4.24
+openai==1.35.7
+pdfplumber==0.10.3
+tiktoken==0.7.0
+python-dotenv==1.0.1
+pydantic==1.10.15
+redis==5.0.1
+loguru==0.7.2

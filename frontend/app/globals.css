@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: custom chatbot styling */
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
